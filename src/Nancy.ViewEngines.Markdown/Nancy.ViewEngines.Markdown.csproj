@@ -9,6 +9,8 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Nancy.ViewEngines.Markdown</RootNamespace>
     <AssemblyName>Nancy.ViewEngines.Markdown</AssemblyName>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\..\Aperture.Nancy.snk</AssemblyOriginatorKeyFile>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\</SolutionDir>
     <RestorePackages>true</RestorePackages>
   </PropertyGroup>

@@ -10,7 +10,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Nancy.ViewEngines.DotLiquid.Tests</RootNamespace>
-    <AssemblyName>Nancy.ViewEngines.DotLiquid.Tests</AssemblyName>
+    <AssemblyName>Nancy.ViewEngines.DotLiquid.Tests</AssemblyName><SignAssembly>True</SignAssembly><AssemblyOriginatorKeyFile>..\..\Aperture.Nancy.snk</AssemblyOriginatorKeyFile>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>

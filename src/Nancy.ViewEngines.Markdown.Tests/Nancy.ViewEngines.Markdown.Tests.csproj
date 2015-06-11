@@ -10,6 +10,8 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Nancy.ViewEngines.Markdown.Tests</RootNamespace>
     <AssemblyName>Nancy.ViewEngines.Markdown.Tests</AssemblyName>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>..\..\Aperture.Nancy.snk</AssemblyOriginatorKeyFile>
     <FileAlignment>512</FileAlignment>
     <ProductVersion>12.0.0</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>

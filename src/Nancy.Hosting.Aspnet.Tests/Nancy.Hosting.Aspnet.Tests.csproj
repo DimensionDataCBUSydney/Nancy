@@ -10,7 +10,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Nancy.Hosting.Aspnet.Tests</RootNamespace>
-    <AssemblyName>Nancy.Hosting.Aspnet.Tests</AssemblyName>
+    <AssemblyName>Nancy.Hosting.Aspnet.Tests</AssemblyName><SignAssembly>True</SignAssembly><AssemblyOriginatorKeyFile>..\..\Aperture.Nancy.snk</AssemblyOriginatorKeyFile>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
